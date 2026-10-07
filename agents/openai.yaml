@@ -1,0 +1,6 @@
+interface:
+  display_name: "中国发明专利与软件著作权 Skill"
+  short_description: "中国发明专利、软著材料起草：真实源码、统一证据追踪与质量检查"
+  default_prompt: "使用 $china-patent-software-copyright 审阅我的项目，先建立证据台账，再按中国发明专利或软件著作权流程整理材料。"
+policy:
+  allow_implicit_invocation: true
